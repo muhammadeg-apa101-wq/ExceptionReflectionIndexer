@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baloglan\\Desktop\\C# task\\IndexerReflectionException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E1A796-9EFD-409A-B208-BA9C0D784275}|IndexerReflectionException\\IndexerReflectionException.csproj|c:\\users\\baloglan\\desktop\\c# task\\indexerreflectionexception\\indexerreflectionexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E1A796-9EFD-409A-B208-BA9C0D784275}|IndexerReflectionException\\IndexerReflectionException.csproj|solutionrelative:indexerreflectionexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E1A796-9EFD-409A-B208-BA9C0D784275}|IndexerReflectionException\\IndexerReflectionException.csproj|c:\\users\\baloglan\\desktop\\c# task\\indexerreflectionexception\\indexerreflectionexception\\exceptions\\loginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E1A796-9EFD-409A-B208-BA9C0D784275}|IndexerReflectionException\\IndexerReflectionException.csproj|solutionrelative:indexerreflectionexception\\exceptions\\loginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginException.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\IndexerReflectionException\\IndexerReflectionException\\Exceptions\\LoginException.cs",
+              "RelativeDocumentMoniker": "IndexerReflectionException\\Exceptions\\LoginException.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\IndexerReflectionException\\IndexerReflectionException\\Exceptions\\LoginException.cs",
+              "RelativeToolTip": "IndexerReflectionException\\Exceptions\\LoginException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:36:01.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baloglan\\Desktop\\C# task\\IndexerReflectionException\\IndexerReflectionException\\Program.cs",
+              "RelativeDocumentMoniker": "IndexerReflectionException\\Program.cs",
+              "ToolTip": "C:\\Users\\baloglan\\Desktop\\C# task\\IndexerReflectionException\\IndexerReflectionException\\Program.cs",
+              "RelativeToolTip": "IndexerReflectionException\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:10:36.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\bin\Debug\net8.0\IndexerReflectionException.exe
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\bin\Debug\net8.0\IndexerReflectionException.deps.json
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\bin\Debug\net8.0\IndexerReflectionException.runtimeconfig.json
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\bin\Debug\net8.0\IndexerReflectionException.dll
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\bin\Debug\net8.0\IndexerReflectionException.pdb
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\obj\Debug\net8.0\IndexerReflectionException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\obj\Debug\net8.0\IndexerReflectionException.AssemblyInfoInputs.cache
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\obj\Debug\net8.0\IndexerReflectionException.AssemblyInfo.cs
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\obj\Debug\net8.0\IndexerReflectionException.csproj.CoreCompileInputs.cache
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\obj\Debug\net8.0\IndexerReflectionException.dll
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\obj\Debug\net8.0\refint\IndexerReflectionException.dll
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\obj\Debug\net8.0\IndexerReflectionException.pdb
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\obj\Debug\net8.0\IndexerReflectionException.genruntimeconfig.cache
+C:\Users\baloglan\Desktop\C# task\IndexerReflectionException\IndexerReflectionException\obj\Debug\net8.0\ref\IndexerReflectionException.dll
